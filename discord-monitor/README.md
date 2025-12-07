@@ -42,7 +42,7 @@
 5.  点击 Run 运行脚本。
 
 ### 2. 配置保活
-1.  脚本运行后，复制 Replit 右上角 Webview 的地址（例如 `https://project.user.replit.dev`）。
+1.  脚本运行后，搜索 Webview ，复制 Replit 右上角 Webview 的地址（例如 `https://project.user.replit.dev`）。
 2.  注册并登录 [UptimeRobot](https://uptimerobot.com/)。
 3.  点击 Add New Monitor，类型选择 HTTP(s)。
 4.  URL 填入刚才复制的地址，频率设置为 5分钟。
@@ -58,3 +58,4 @@
 
 
 MIT License
+
